@@ -496,7 +496,7 @@
         </profile>
     </profiles>
 
-  <disributuionmanagment>
+  <disributuionmanagement>
     
     <repository>
         <id>releases</id>
@@ -510,5 +510,5 @@
         <url>http://34.238.44.154:8081/nexus/content/repositories/snapshots/</url>
     </snapshotrepository>
     
-  </distributionmanagment>
+  </distributionmanagement>
 </project>

@@ -496,7 +496,7 @@
         </profile>
     </profiles>
 
-  <disributionmanagement>
+  <distributionmanagement>
     
     <repository>
         <id>releases</id>
